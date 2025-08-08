@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.4.IsPalindromePermutation
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.5.CountEditDistance", "1.5.CountEditDistance\1.5.CountEditDistance.csproj", "{248947D4-181A-47C9-B7B6-3FED7D4E8CAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.6.CompressString", "1.6.CompressString\1.6.CompressString.csproj", "{DCAD7D71-3439-432C-B81E-4FC1780BC326}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{248947D4-181A-47C9-B7B6-3FED7D4E8CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{248947D4-181A-47C9-B7B6-3FED7D4E8CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{248947D4-181A-47C9-B7B6-3FED7D4E8CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCAD7D71-3439-432C-B81E-4FC1780BC326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCAD7D71-3439-432C-B81E-4FC1780BC326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCAD7D71-3439-432C-B81E-4FC1780BC326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCAD7D71-3439-432C-B81E-4FC1780BC326}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
