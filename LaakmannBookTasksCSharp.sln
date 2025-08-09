@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.7.RotateMatrix", "1.7.Rot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.8.SetZeros", "1.8.SetZeros\1.8.SetZeros.csproj", "{02C51AE1-1BDA-41FF-B94A-EC9726F2C8F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.9.IsRotation", "1.9.IsRotation\1.9.IsRotation.csproj", "{05EE6C47-AB91-4296-B6EC-3E3A8D5C0A4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{02C51AE1-1BDA-41FF-B94A-EC9726F2C8F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02C51AE1-1BDA-41FF-B94A-EC9726F2C8F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02C51AE1-1BDA-41FF-B94A-EC9726F2C8F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05EE6C47-AB91-4296-B6EC-3E3A8D5C0A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05EE6C47-AB91-4296-B6EC-3E3A8D5C0A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05EE6C47-AB91-4296-B6EC-3E3A8D5C0A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05EE6C47-AB91-4296-B6EC-3E3A8D5C0A4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
