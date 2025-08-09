@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.5.CountEditDistance", "1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.6.CompressString", "1.6.CompressString\1.6.CompressString.csproj", "{DCAD7D71-3439-432C-B81E-4FC1780BC326}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.7.RotateMatrix", "1.7.RotateMatrix\1.7.RotateMatrix.csproj", "{6F801517-FFB3-4A23-86E3-5EB7677E7BC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{DCAD7D71-3439-432C-B81E-4FC1780BC326}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCAD7D71-3439-432C-B81E-4FC1780BC326}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCAD7D71-3439-432C-B81E-4FC1780BC326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F801517-FFB3-4A23-86E3-5EB7677E7BC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F801517-FFB3-4A23-86E3-5EB7677E7BC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F801517-FFB3-4A23-86E3-5EB7677E7BC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F801517-FFB3-4A23-86E3-5EB7677E7BC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
